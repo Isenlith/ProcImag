@@ -1,2 +1,2 @@
 # ProcImag
-Códigos relacionados a processamento de imagens
+Códigos relacionados à processamento de imagens
